@@ -46,15 +46,7 @@ A collection of beginner-friendly Python game projects built while practicing pr
 
 Check out my repositories to explore my projects and code.
 
-## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed_helmy5588&show_icons=true&theme=radical" alt="Mohamed's GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed_helmy5588&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
 
 ## 📺 YouTube
 
