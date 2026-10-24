@@ -1,52 +1,72 @@
+# Hi there, I'm Mohamed Helmy 👋
 
-<h1>Hi There, I'm Tushar Mittal <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+🐍 **Python Programmer | CS50 Student | Web Development Learner**
 
-I'm a **Machine Learning Engineer** working at [Peak](https://peak.ai/). My day to day work revolves around building Machine Learning models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
+I'm Mohamed Helmy, a programmer passionate about learning software development and building practical projects.
 
-## Skill Set :muscle:
+I'm currently studying **Python, CS50, and Web Development**, improving my programming skills through hands-on projects and continuous learning.
 
-These are some of the major technologies that I use or have worked on in the past:
+I enjoy turning ideas into working applications and sharing my programming journey with others.
 
-**Programming Languages**
+## 🚀 What I'm Learning
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
-|--|--|--|--|--|
+- 🐍 **Python** — Programming fundamentals, problem-solving, and building games.
+- 🎓 **CS50** — Learning computer science fundamentals and developing projects.
+- 🌐 **Web Development** — Exploring web technologies and building my development skills.
+- 🧩 **Odoo** — Exploring business applications and customization.
 
-**Libraries and Frameworks**
+## 🛠️ Skills & Technologies
 
-<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-|--|--|--|--|--|
-<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
+### Programming Languages
+<p>
+  <img title="Python" alt="Python" width="45" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+  <img title="C" alt="C" width="45" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" />
+  <img title="JavaScript" alt="JavaScript" width="45" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+  <img title="HTML5" alt="HTML5" width="45" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
+  <img title="CSS3" alt="CSS3" width="45" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
+</p>
 
-**Infrastructure**
+### Tools & Technologies
+<p>
+  <img title="Git" alt="Git" width="45" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+  <img title="GitHub" alt="GitHub" width="45" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
+  <img title="Visual Studio Code" alt="VS Code" width="45" src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png" />
+  <img title="Turtle" alt="Python Turtle" width="45" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+</p>
 
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">
-|--|--|--|
+## 🎮 Featured Projects
 
-**Databases**
+### Python Games with Turtle
+A collection of beginner-friendly Python game projects built while practicing programming.
 
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png"> <br>
-|--|--|--|
+- 🏁 Turtles Race
+- 🏓 Pong Game
+- 🔷 Falling Shapes Game
+- 🌍 World Map Quiz using Python
 
-**Tools**
+Check out my repositories to explore my projects and code.
 
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
-|--|--|--|--|--|
-<br>
+## 📊 GitHub Stats
 
-## Some of my stats :bar_chart:
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed_helmy5588&show_icons=true&theme=radical" alt="Mohamed's GitHub Stats" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=techytushar&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"><img src="https://github-readme-stackoverflow.vercel.app/?userID=5679285&theme=dark" height="250"></a>
-|--|--|
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed_helmy5588&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
 
-<br>
+## 📺 YouTube
 
-## Let's Connect :handshake:
+I share programming projects and practical tutorials, especially Python games and beginner-friendly coding projects.
 
-<a href="https://www.linkedin.com/in/tusharmit/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://www.kaggle.com/techytushar/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
-|--|--|
+Visit my [YouTube channel](https://www.youtube.com/@mohamed_helmy5588) to follow my programming journey.
 
-### Here is a random meme for you, to make your day better
-(*PS: Refresh the page to see a new meme* :wink: )
+## 🤝 Let's Connect
 
-<a href="https://github.com/techytushar/random-memer"><img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+- 💻 GitHub: [@mohamed_helmy5588](https://github.com/mohamed_helmy5588)
+- 📺 YouTube: [My Programming Channel](https://www.youtube.com/@mohamed_helmy5588)
+
+---
+
+⭐ *Always learning, always building, and always improving.*
